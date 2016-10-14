@@ -1,5 +1,5 @@
 {
-  "name": "tsify",
+  "name": "tsify-preprocess",
   "version": "2.0.2",
   "description": "Browserify plugin for compiling Typescript",
   "main": "index.js",
@@ -8,9 +8,12 @@
     "test": "test-peer-range browserify",
     "test-main": "node test/test.js"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TypeStrong/tsify"
+    "url": "git://github.com/jiborobot/tsify-preprocess"
   },
   "keywords": [
     "browserify",
@@ -20,9 +23,9 @@
   "author": "Greg Smith",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TypeStrong/tsify/issues"
+    "url": "https://github.com/jiborobot/tsify-preprocess/issues"
   },
-  "homepage": "https://github.com/TypeStrong/tsify",
+  "homepage": "https://github.com/jiborobot/tsify-preprocess",
   "engines": {
     "node": ">=0.12"
   },

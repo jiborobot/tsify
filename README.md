@@ -4,12 +4,12 @@ Fork of [**tsify**](https://github.com/TypeStrong/tsify) that adds support for [
 
 [Browserify](http://browserify.org/) plugin for compiling [TypeScript](http://www.typescriptlang.org/)
 
-[![NPM version](https://img.shields.io/npm/v/tsify.svg)](https://www.npmjs.com/package/tsify)
-[![Downloads](http://img.shields.io/npm/dm/tsify.svg)](https://npmjs.org/package/tsify)
-[![Build status](https://img.shields.io/travis/TypeStrong/tsify.svg)](http://travis-ci.org/TypeStrong/tsify)
-[![Dependency status](https://img.shields.io/david/TypeStrong/tsify.svg)](https://david-dm.org/TypeStrong/tsify)
-[![devDependency Status](https://img.shields.io/david/dev/TypeStrong/tsify.svg)](https://david-dm.org/TypeStrong/tsify#info=devDependencies)
-[![peerDependency Status](https://img.shields.io/david/peer/TypeStrong/tsify.svg)](https://david-dm.org/TypeStrong/tsify#info=peerDependencies)
+[![NPM version](https://img.shields.io/npm/v/tsify-preprocess.svg)](https://www.npmjs.com/package/tsify-preprocess)
+[![Downloads](http://img.shields.io/npm/dm/tsify-preprocess.svg)](https://npmjs.org/package/tsify-preprocess)
+[![Build status](https://img.shields.io/travis/jiborobot/tsify-preprocess.svg)](http://travis-ci.org/jiborobot/tsify-preprocess)
+[![Dependency status](https://img.shields.io/david/jiborobot/tsify-preprocess.svg)](https://david-dm.org/jiborobot/tsify-preprocess)
+[![devDependency Status](https://img.shields.io/david/dev/jiborobot/tsify-preprocess.svg)](https://david-dm.org/jiborobot/tsify-preprocess#info=devDependencies)
+[![peerDependency Status](https://img.shields.io/david/peer/jiborobot/tsify-preprocess.svg)](https://david-dm.org/jiborobot/tsify-preprocess#info=peerDependencies)
 
 # Example Usage
 
